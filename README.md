@@ -32,6 +32,17 @@ The network was tested in Cisco Packet Tracer using:
 - `.pkt` — Cisco Packet Tracer network topology
 - Screenshots — Topology, routing, and connectivity/security test results
 
+- ## Lessons Learned & Conclusion
+
+This project reinforced the importance of careful network planning, including IP addressing, subnetting, VLAN design, and OSPF area configuration.
+
+During implementation and testing, several issues had to be identified and resolved, including missing OSPF network advertisements and incorrect IP addressing between routers. These problems affected routing and end-to-end connectivity.
+
+The biggest takeaway was that **even a well-planned network can encounter unexpected issues during implementation**. A solid plan provides a foundation, but systematic troubleshooting, verification, and patience are essential to make the network work as intended.
+
+This project improved my understanding of multi-area OSPF, network segmentation, access control, and practical Cisco network troubleshooting.
+
+
 Screenshots:
 
 <img width="1920" height="1080" alt="Lab 6 Topology" src="https://github.com/user-attachments/assets/bad251df-5b6b-46d9-aa8a-8d948fcb648c" />
